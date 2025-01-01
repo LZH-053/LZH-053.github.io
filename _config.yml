@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Zhihao Li"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in computer science at Western University"
-  location         : "London, Canada"
+  bio              : "Ph.D. student in Computer Science at Western University"
+  location         : "London, Ontario, Canada"
   employer         : 
   uri              : # URL
   email            : "zhihao.lics@gmail.com" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : #    
 
   # Social media
-  linkedin         : 
+  linkedin         : https://www.linkedin.com/in/zhihao-l-93b7102b8/
   zhihu            : 
 
 # Publication Category - The following the list of publication categories and their headings
