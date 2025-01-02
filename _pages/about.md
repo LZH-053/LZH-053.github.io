@@ -15,6 +15,15 @@ Before beginning my Ph.D., I earned my Master's degree from [Tianjin University]
 [2024.02]  Our paper "Hierarchical Matching and Reasoning for Multi-Query Image Retrieval" has been accepted by _Neural Networks_. 
 
 # Selected Publications
+<div style="display: flex; align-items: center;">
+    <img src="../images/paper_HMRN.png" alt="sym" style="max-width: 50%; height: auto; margin-right: 10px;">
+    <div>
+        <p>[Hierarchical Matching and Reasoning for Multi-Query Image Retrieval]([https://ieeexplore.ieee.org/document/10217826]      (https://www.sciencedirect.com/science/article/abs/pii/S0893608024001242))
+
+Zhong Ji, **Zhihao Li**, Yan Zhang, Haoran Wang, Yanwei Pang, Xuelong Li</p>
+    </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2024</div><img src='../images/paper_HMRN.png' alt="sym" width="30%" height="auto"></div></div>
 <div class='paper-box-text' markdown="1">
 
